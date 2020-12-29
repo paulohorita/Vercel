@@ -1,2 +1,2 @@
 # Vercel
-Rep.Vercel
+Projects in Vercel Platform
